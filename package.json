@@ -1,4 +1,6 @@
+
 {
+    
   "name": "primepalindromicnumber",
   "version": "1.0.0",
   "description": "\"searching palindromics prime numbers\"",
@@ -7,5 +9,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+      "node-fetch": "^3.2.10"
+  },
+
+  "type": "module"
+  
+  
 }
